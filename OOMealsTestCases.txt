@@ -1,0 +1,181 @@
+---------------------------------------------------------------------
+IMPORTANT NOTICE: When entering the meal names, please use a (_)
+to indicate a space, if you use an actual space ( ) then the
+program will not allow you to enter in any data and will terminate
+---------------------------------------------------------------------
+Enter the amount of meals you would like to enter: 21
+Enter the Meal's name and the Calories.
+Meal Name: Ham_and_Cheese_Sandwhich
+Calories: 150
+Enter the Meal's name and the Calories.
+Meal Name: Salad
+Calories: 120
+Enter the Meal's name and the Calories.
+Meal Name: Green_Lentil_Soup
+Calories: 250
+Enter the Meal's name and the Calories.
+Meal Name: Ham_Sandwhich
+Calories: 100
+Enter the Meal's name and the Calories.
+Meal Name: Green_Bean_Pasta
+Calories: 275
+Enter the Meal's name and the Calories.
+Meal Name: Lasagna
+Calories: 340
+Enter the Meal's name and the Calories.
+Meal Name: Crackers_and_Tomatoe_soup
+Calories: 397
+Enter the Meal's name and the Calories.
+Meal Name: Pizza
+Calories: 565
+Enter the Meal's name and the Calories.
+Meal Name: Cake
+Calories: 355
+Enter the Meal's name and the Calories.
+Meal Name: Cheese_Cake
+Calories: 455
+Enter the Meal's name and the Calories.
+Meal Name: Egg_BreakFast_Biscuit
+Calories: 350
+Enter the Meal's name and the Calories.
+Meal Name: Mac_n_Cheese
+Calories: 340
+Enter the Meal's name and the Calories.
+Meal Name: Pasta
+Calories: 200
+Enter the Meal's name and the Calories.
+Meal Name: Green_Soup
+Calories: 200
+Enter the Meal's name and the Calories.
+Meal Name: Trail_Mix
+Calories: 275
+Enter the Meal's name and the Calories.
+Meal Name: Chocolate_Almonds
+Calories: 375
+Enter the Meal's name and the Calories.
+Meal Name: Trail_Bar
+Calories: 450
+Enter the Meal's name and the Calories.
+Meal Name: Pasta_Bowl
+Calories: 565
+Enter the Meal's name and the Calories.
+Meal Name: New_Yorker_Pizza
+Calories: 375
+Enter the Meal's name and the Calories.
+Meal Name: StrawBerry_Smoothie
+Calories: 750
+Enter the Meal's name and the Calories.
+Meal Name: Sundae
+Calories: 900
+
+--------------------------------------
+Meals for Day 1
+--------------------------------------
+Meal information for Meal 1.
+Meal Name: Ham_and_Cheese_Sandwhich
+Calories: 150
+Meal information for Meal 2.
+Meal Name: Salad
+Calories: 120
+Meal information for Meal 3.
+Meal Name: Green_Lentil_Soup
+Calories: 250
+--------------------------------------
+Daily Calorie Total: 520
+--------------------------------------
+
+--------------------------------------
+Meals for Day 2
+--------------------------------------
+Meal information for Meal 4.
+Meal Name: Ham_Sandwhich
+Calories: 100
+Meal information for Meal 5.
+Meal Name: Green_Bean_Pasta
+Calories: 275
+Meal information for Meal 6.
+Meal Name: Lasagna
+Calories: 340
+--------------------------------------
+Daily Calorie Total: 715
+--------------------------------------
+
+--------------------------------------
+Meals for Day 3
+--------------------------------------
+Meal information for Meal 7.
+Meal Name: Crackers_and_Tomatoe_soup
+Calories: 397
+Meal information for Meal 8.
+Meal Name: Pizza
+Calories: 565
+Meal information for Meal 9.
+Meal Name: Cake
+Calories: 355
+--------------------------------------
+Daily Calorie Total: 1317
+--------------------------------------
+
+--------------------------------------
+Meals for Day 4
+--------------------------------------
+Meal information for Meal 10.
+Meal Name: Cheese_Cake
+Calories: 455
+Meal information for Meal 11.
+Meal Name: Egg_BreakFast_Biscuit
+Calories: 350
+Meal information for Meal 12.
+Meal Name: Mac_n_Cheese
+Calories: 340
+--------------------------------------
+Daily Calorie Total: 1145
+--------------------------------------
+
+--------------------------------------
+Meals for Day 5
+--------------------------------------
+Meal information for Meal 13.
+Meal Name: Pasta
+Calories: 200
+Meal information for Meal 14.
+Meal Name: Green_Soup
+Calories: 200
+Meal information for Meal 15.
+Meal Name: Trail_Mix
+Calories: 275
+--------------------------------------
+Daily Calorie Total: 675
+--------------------------------------
+
+--------------------------------------
+Meals for Day 6
+--------------------------------------
+Meal information for Meal 16.
+Meal Name: Chocolate_Almonds
+Calories: 375
+Meal information for Meal 17.
+Meal Name: Trail_Bar
+Calories: 450
+Meal information for Meal 18.
+Meal Name: Pasta_Bowl
+Calories: 565
+--------------------------------------
+Daily Calorie Total: 1390
+--------------------------------------
+
+--------------------------------------
+Meals for Day 7
+--------------------------------------
+Meal information for Meal 19.
+Meal Name: New_Yorker_Pizza
+Calories: 375
+Meal information for Meal 20.
+Meal Name: StrawBerry_Smoothie
+Calories: 750
+Meal information for Meal 21.
+Meal Name: Sundae
+Calories: 900
+--------------------------------------
+Daily Calorie Total: 2025
+--------------------------------------

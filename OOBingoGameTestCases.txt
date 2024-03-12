@@ -1,0 +1,117 @@
+-------------------------------------------------------------------------
+IMPORTANT NOTICE: When entering bingo numbers, please avoid using
+lowercase characters as the program does not accept lowercase characters
+Example: b1, b13, o74
+-------------------------------------------------------------------------
+To play Demo mode, enter 1.
+To play Game mode, enter 2.
+To exit the program, enter 3.
+Enter choice : 2
+Human
+--------------------------
+|  6 | 26 | 38 | 56 | 62 |
+|  3 | 21 | 43 | 54 | 61 |
+|  4 | 22 |  X | 60 | 73 |
+|  9 | 19 | 34 | 58 | 68 |
+| 13 | 27 | 32 | 46 | 74 |
+--------------------------
+
+Computer
+--------------------------
+|  2 | 19 | 34 | 46 | 64 |
+|  6 | 18 | 39 | 50 | 66 |
+|  1 | 22 |  X | 58 | 62 |
+|  9 | 27 | 45 | 48 | 70 |
+| 12 | 29 | 31 | 53 | 63 |
+--------------------------
+
+Enter A Number: G53
+Enter A Number: I20
+Enter A Number: O65
+Enter A Number: N41
+Enter A Number: G60
+Enter A Number: I24
+Enter A Number: B8
+Enter A Number: N33
+Enter A Number: O72
+Enter A Number: O64
+Enter A Number: N39
+Enter A Number: G58
+Enter A Number: I22
+Enter A Number: B6
+Enter A Number: B15
+Enter A Number: I17
+Enter A Number: G51
+Enter A Number: O61
+Enter A Number: B7
+Enter A Number: G50
+Enter A Number: N39
+Enter A Number: G53
+Enter A Number: N36
+Enter A Number: N34
+Enter A Number: B7
+Enter A Number: B15
+Enter A Number: O66
+Enter A Number: G50
+Enter A Number: O65
+Enter A Number: I19
+Enter A Number: O68
+Enter A Number: I23
+Enter A Number: G49
+Enter A Number: B15
+Enter A Number: N34
+Enter A Number: O74
+Enter A Number: O71
+Enter A Number: G48
+Enter A Number: O73
+Enter A Number: I21
+
+--------------------------
+|  X | 26 | 38 | 56 | 62 |
+|  3 |  X | 43 | 54 |  X |
+|  4 |  X |  X |  X |  X |
+|  9 |  X |  X |  X |  X |
+| 13 | 27 | 32 | 46 |  X |
+--------------------------
+CONGRATULATIONS Human you WON!
+Human won with a / pattern!
+
+
+-------------------------------------------------------------------------
+IMPORTANT NOTICE: When entering bingo numbers, please avoid using
+lowercase characters as the program does not accept lowercase characters
+Example: b1, b13, o74
+-------------------------------------------------------------------------
+To play Demo mode, enter 1.
+To play Game mode, enter 2.
+To exit the program, enter 3.
+Enter choice : 1
+Human
+--------------------------
+|  5 | 30 | 44 | 59 | 67 |
+| 12 | 28 | 31 | 49 | 70 |
+|  2 | 21 |  X | 60 | 64 |
+|  9 | 19 | 33 | 55 | 69 |
+| 14 | 24 | 45 | 54 | 65 |
+--------------------------
+
+Computer
+--------------------------
+| 14 | 24 | 32 | 54 | 69 |
+|  4 | 27 | 43 | 53 | 67 |
+|  3 | 22 |  X | 50 | 66 |
+|  8 | 23 | 35 | 60 | 70 |
+|  2 | 19 | 37 | 57 | 74 |
+--------------------------
+
+Enter A Bingo Number: B5 B12 B2 B9 B14
+Enter A Bingo Number: Enter A Bingo Number: Enter A Bingo Number: Enter A Bingo Number:
+--------------------------
+|  X | 30 | 44 | 59 | 67 |
+|  X | 28 | 31 | 49 | 70 |
+|  X | 21 |  X | 60 | 64 |
+|  X | 19 | 33 | 55 | 69 |
+|  X | 24 | 45 | 54 | 65 |
+--------------------------
+CONGRATULATIONS Human you WON!
+Human won with a | pattern!

@@ -1,0 +1,45 @@
+----------------------------------------------------------------------
+IMPORTANT NOTICE: If you would like to play/input a low Ace, type a(n)
+lowercase 'a' followed by the cards suit
+Example: aS, aC, aD, aH
+IMPORTANT NOTICE: When inputting a card, avoid typing lowercase
+charaters for the suits
+Example: As, Td, 6c, 9h
+----------------------------------------------------------------------
+To play Demo mode, enter 1.
+To play Game mode, enter 2.
+To exit the program, enter 3.
+Enter choice : 2
+THREE OF A KIND, J's beats HIGH CARD, A High
+CONGRATULATIONS PlayerOne ,you WON!
+PlayerOne Won with the following hand: 3S JC JD JD 7S
+
+
+
+----------------------------------------------------------------------
+IMPORTANT NOTICE: If you would like to play/input a low Ace, type a(n)
+lowercase 'a' followed by the cards suit
+Example: aS, aC, aD, aH
+IMPORTANT NOTICE: When inputting a card, avoid typing lowercase
+charaters for the suits
+Example: As, Td, 6c, 9h
+----------------------------------------------------------------------
+To play Demo mode, enter 1.
+To play Game mode, enter 2.
+To exit the program, enter 3.
+Enter choice : 1
+Select cards for PlayerOne
+Enter a Card: 3S
+Enter a Card: 3S
+Enter a Card: 3S
+Enter a Card: 5H
+Enter a Card: 9D
+Select cards for Computer
+Enter a Card: 4H
+Enter a Card: 4H
+Enter a Card: 7H
+Enter a Card: 7H
+Enter a Card: 9S
+THREE OF A KIND, 3's beats TWO PAIR, 7's and 4's
+CONGRATULATIONS PlayerOne ,you WON!
+PlayerOne Won with the following hand: 3S 3S 3S 5H 9D
